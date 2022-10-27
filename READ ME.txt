@@ -1,0 +1,9 @@
+this system has 3 types of admin: master, local and central.
+
+local admin describes hospitals and other healthcare. They can request items needed to the central admin. They also need to record any using activity.
+
+admin central describes a health supplier where they can meet or reject the needs of local admins. In addition, the central admin can also see the stock that is in healthcares, so that when the needed stock runs out and is needed urgently, the central admin can take stock belonging to other healthcares or pre-order it.
+
+admin master is used as a supervisor or in other words is the government, where the government can oversee the existing healthcare and add admins as needed.
+
+You can see an example video of using the system at: https://drive.google.com/file/d/1Jqt64zAipqKrVAs47mZUieuMSTgAoFY-/view?usp=sharing
